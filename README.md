@@ -1,4 +1,6 @@
-                         ** Data Science Jobs Market Analysis**
+<div align="center">
+** Data Science Jobs Market Analysis**
+</div>                  
 
 **Project Overview**
 
