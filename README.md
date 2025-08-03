@@ -1,6 +1,6 @@
-                          Data Science Jobs Market Analysis
+                        **  Data Science Jobs Market Analysis
 
-Project Overview
+Project Overview**
 
 It analysis trending jobs, skills required , hiring and global job hubs for roles in various location in data science field which can be determined for level such as entry level(fresher) , medium level(experienced) and senior level(professional with more experience and knowledge).
 
