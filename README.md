@@ -1,10 +1,10 @@
-                        **  Data Science Jobs Market Analysis
+                         ** Data Science Jobs Market Analysis**
 
-Project Overview**
+**Project Overview**
 
 It analysis trending jobs, skills required , hiring and global job hubs for roles in various location in data science field which can be determined for level such as entry level(fresher) , medium level(experienced) and senior level(professional with more experience and knowledge).
 
-Tools used
+**Tools used**
 
 •	Python
 
@@ -21,7 +21,7 @@ Tools used
 •	Github
 
 
-Key Findings
+**Key Findings**
 
 •	Python and SQL is required in most of job postings
 
@@ -32,9 +32,9 @@ Key Findings
 •	USA leads in terms of job postings
 
 
-How to Reproduce
+**How to Reproduce**
 
 
-Dataset Source
+**Dataset Source**
 
 Data Science Salaries Job Postings
