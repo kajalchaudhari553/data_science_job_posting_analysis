@@ -1,5 +1,5 @@
 <div align="center">
-** Data Science Jobs Market Analysis**
+Data Science Job Market Analysis
 </div>                  
 
 **Project Overview**
