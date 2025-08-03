@@ -1,0 +1,9 @@
+google cloud/jupyter
+pandas
+numpy
+matplotlib
+seaborn
+spaCy
+plotly.express
+wordcloud
+pycountry
